@@ -22,6 +22,8 @@ De este modo, y con el fin, de descargar, analizar y organizar estos datos de in
 
 •	Tras examinar las etiquetas, tags, clases de la página, hemos navegado por la estructura hasta el enlace que contiene los datos para posteriormente descargarlos y analizarlos. 
 
+Nota: las enfermedades escogidas son Zika, Dengue y Chikunbunya (elegidas por ser enfermedades provocadas por picadura de mosquito)
+
 **Caso desastres. Proceso:**
 
 En este caso se puede realizar webscraping a través de una api existente. Así, siguiendo las indicaciones de la API se realizan llamadas para obtener información de los desastres.
