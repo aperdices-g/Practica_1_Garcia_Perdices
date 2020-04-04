@@ -9,7 +9,7 @@ https://reliefweb.int/disasters
 
 Aún estamos trabajando en ambas páginas y datasets.
 
-**Caso enfermedades y desastres. Proceso: **
+**Caso enfermedades y desastres. Proceso:**
 
 
 De este modo, y con el fin, de descargar, analizar y organizar estos datos de interés, hemos completado el proceso de web scraping de la siguiente forma:
