@@ -36,5 +36,7 @@ En la documentación se pueden consultar diferentes formas de llamar, al igual q
 **Publicación del Dataset en Zenodo:**
 
 Nos hemos decantado por el dataset de enfermedades:
+
 Publicación en Zenodo: https://zenodo.org/record/3743475#.XozOxXJS8dU
+
 DOI: 10.5281/zenodo.3743475
