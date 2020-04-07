@@ -31,3 +31,12 @@ En este caso se puede realizar webscraping a través de una api existente. Así,
 La documentación de la API la podéis consultar en: https://apidoc.rwlabs.org/#doc-use
 
 En la documentación se pueden consultar diferentes formas de llamar, al igual que los parámetros, campos de tabla, etc
+
+
+**Publicación del Dataset en Zenodo:**
+
+Nos hemos decantado por el dataset de enfermedades:
+
+Publicación en Zenodo: https://zenodo.org/record/3743475#.XozOxXJS8dU
+
+DOI: 10.5281/zenodo.3743475
